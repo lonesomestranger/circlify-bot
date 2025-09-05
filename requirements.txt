@@ -1,0 +1,3 @@
+aiogram
+ffmpeg-python
+python-dotenv
